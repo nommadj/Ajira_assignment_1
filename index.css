@@ -1,0 +1,34 @@
+.social-links {
+  display: flex;
+  justify-content: center;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: #333;
+  font-size: 24px;
+}
+
+.social-links a:hover {
+  color: #00acee;
+}
+
+.fa-twitter:before {
+  content: "\f099";
+}
+
+.fa-instagram:before {
+  content: "\f16d";
+}
+
+.fa-facebook:before {
+  content: "\f09a";
+}
+
+.fa-tiktok:before {
+  content: "\f3b6";
+}
+
+.fa-youtube:before {
+  content: "\f16a";
+}
